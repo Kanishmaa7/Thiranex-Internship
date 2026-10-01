@@ -1,0 +1,13 @@
+{
+  "raw_rows": 304,
+  "cleaned_rows": 300,
+  "duplicate_rows_in_raw": 4,
+  "missing_values_in_raw": 26,
+  "missing_values_after_cleaning": 0,
+  "total_revenue": 30949927.26,
+  "total_profit": 8480144.7,
+  "total_quantity": 1345.0,
+  "average_order_revenue": 103166.42,
+  "top_product_by_revenue": "Laptop",
+  "top_region_by_revenue": "West"
+}
